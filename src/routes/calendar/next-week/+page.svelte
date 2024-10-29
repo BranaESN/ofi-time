@@ -51,7 +51,7 @@
 							</div>
 							{:else}
 							<th>
-								<div class="btn btn-lg btn-success md:w-87 text-white w-48" style="background-color: rgba(122,193,67,0.74); border-color: rgba(122,193,67,0.74)">
+								<div class="btn btn-lg btn-success md:w-87 text-white w-48" style="background-color: rgba(255,101,80,0.4); border-color: rgba(255,101,80,0.4)">
 									<p>🚫 Office closed</p>
 								</div>
 							</th>
